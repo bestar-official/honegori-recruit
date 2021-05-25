@@ -32,7 +32,7 @@ a {
 
 /* .buttonErea01 {
     width: 100%;
-}
+} */
 
 .buttonErea {
     position: fixed;
@@ -40,7 +40,7 @@ a {
     left: 0px;
     z-index: 5;
    width: 100%;
-} */
+}
 /* 
 .btn01{
     width: 49.2%;
@@ -51,9 +51,9 @@ a {
     width: 49.2%;
 } */
 
-/* .buttonErea02 {
+.buttonErea02 {
     width: 100%;
-} */
+}
 
 .contents01 {
     width: 100%;
